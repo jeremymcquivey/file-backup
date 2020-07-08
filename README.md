@@ -5,6 +5,7 @@ Setup:
 ** Temporary **
 ** Setup a new profile in the app.config file **
 
+```
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
   <appSettings>
