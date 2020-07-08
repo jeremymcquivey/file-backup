@@ -2,7 +2,6 @@
 Mirrors files and directories to specified destination
 
 Setup:
-** Temporary **\n
 ** Setup a new profile in the app.config file **
 
 ```
